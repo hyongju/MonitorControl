@@ -9,7 +9,7 @@ Control your external monitor brightness, contrast or volume directly from a men
 
 <!-- Language emoji -->
 <div align="center">
-    <p>Translations: :uk: :fr: :de: :it: :ru: :ukraine: :jp: :kor:</p>
+    <p>Translations: :uk: :fr: :de: :it: :ru: :ukraine: :jp: :kr:</p>
 </div>
 
 <br/>
